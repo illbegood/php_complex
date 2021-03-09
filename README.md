@@ -1,0 +1,1 @@
+Тесты: `./vendor/bin/phpunit tests`
